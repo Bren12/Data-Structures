@@ -127,7 +127,7 @@ Por último, realiza en forma individual una investigación y reflexión de la i
   - **Insuficiente (20%)** - Pasa correctamente menos del 50% de los casos de prueba.
 
 - **20%** - El documento de reflexión deberá incluir de manera específica si el uso de un lista doblemente ligada para esta situación problema es la más adecuada o no así como sus ventajas y desventajas, así como la complejidad computacional para las operaciones solicitadas.
-- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
+- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 
