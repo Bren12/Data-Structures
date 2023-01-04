@@ -91,7 +91,7 @@ Por último, realiza en forma individual una investigación y reflexión de la i
     - **20%** - Despliega los dato en forma descendente por cantidad de accesos. 
 
 - 20% - El documento de reflexión incluye la explicación de los algoritmos de ordenamiento y búsqueda implementados para esta situación problema, así como la complejidad computacional de cada uno de ellos.
-- 10% - El código deberá seguir los lineamientos estipulados en el estándar de codificación: liga_estándar_codificación  
+- 10% - El código deberá seguir los lineamientos estipulados en el estándar de codificación.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 Esta actividad forma parte tanto de tu calificación final del curso, así como del portafolio de evidencias de las competencias a desarrollar del curso, por lo que se te pide que en forma individual:
