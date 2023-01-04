@@ -77,4 +77,4 @@ Por último, realiza una investigación y reflexión de la importancia y eficien
   - **Insuficiente (17%)** - pasa correctamente menos del 50% de los casos de prueba.
 
 - **20%** - El documento de reflexión de la importancia y eficiencia del uso de BST en una situación problema de esta naturaleza.
-- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
+- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación.
