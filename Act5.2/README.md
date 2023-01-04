@@ -78,7 +78,7 @@ Para obtener el 100% de los puntos de esta actividad, se divide en:
   - **35%** - Pasa correctamente al menos el 50% de los casos de prueba.
   - **17%** - Pasa correctamente el 25% o menos de los casos de prueba.
 - **20%** - El documento de reflexión de la importancia y eficiencia del uso grafos en una situación problema de esta naturaleza.
-- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: <span class="instructure_file_holder link_holder">[liga_estándar_codificación](estandar.pdf)</span>
+- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 
