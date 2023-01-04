@@ -83,7 +83,7 @@ Por último, Realiza en forma individual una investigación y reflexión de la i
   - **35%** - Pasa correctamente al menos el 50% de los casos de prueba.
   - **17%** - Pasa correctamente el 25% o menos de los casos de prueba.
 - **20%** - El documento de reflexión de la importancia y eficiencia del uso grafos en una situación problema de esta naturaleza, así como la complejidad computacional para las operaciones implementadas.
-- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación: 
+- **10%** - El código deberá seguir los lineamientos estipulados en el estándar de codificación.
 
 ## <span style="color: rgb(26, 99, 169);">**¿Dónde la entrego?**</span>
 
