@@ -5,8 +5,6 @@ Source code developed for the projects of the TC1031 course.
 Course: TC1031 (Fundamental Algorithms and Data Structures Programming)
 <br>
 Semester: Aug-Dec 2021
-<br>
-Group: 5
 
 ## Files Description
 
