@@ -2,8 +2,8 @@
 
 Source code developed for the projects of the TC1031 course.
 
-Course: TC1031 (Fundamental Algorithms and Data Structures Programming) <br>
-Semester: AD21
+**Course:** TC1031 (Fundamental Algorithms and Data Structures Programming) <br>
+**Semester:** AD21
 
 ## Files Description
 
