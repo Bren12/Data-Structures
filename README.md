@@ -1,9 +1,14 @@
-# Learning About Fundamental Algorithms and Data Structures
+# Learning About Data Structures ⛴️
 
 Source code developed for the projects of the TC1031 course.
 
 **Course:** TC1031 (Fundamental Algorithms and Data Structures Programming) <br>
 **Semester:** AD21
+
+## Project Description
+
+Computer programs developed to address the problems generated from the blockade of the Suez Canal and how, 
+using various data structures, we can manage the information to avoid or mitigate this type of problem.
 
 ## Files Description
 
