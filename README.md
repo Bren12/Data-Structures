@@ -3,6 +3,7 @@
 Source code developed for the projects of the TC1031 course.
 
 **Course:** TC1031 (Fundamental Algorithms and Data Structures Programming) <br>
+Developed by: [Brenda Saucedo](https://github.com/Bren12) <br>
 **Language:** C++ <br>
 **Semester:** AD21
 
